@@ -223,7 +223,10 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban110626080,{131232407},--Sudo users
+    "leave_ban",
+    "admin"
+    },
+    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -333,10 +336,10 @@ You can also do it by reply
 You can also do it by reply
 
 !who
-لیست اعظا
+Members list
 
 !modlist
-لیست مدیران
+Moderators list
 
 !promote [username]
 Promote someone
@@ -345,7 +348,7 @@ Promote someone
 Demote someone
 
 !kickme
-کیک کردن خودم
+Will kick user
 
 !about
 Group description
@@ -354,7 +357,7 @@ Group description
 Set and locks group photo
 
 !setname [name]
-گذاشتن اسم گروه
+Set group name
 
 !rules
 Group rules
@@ -372,7 +375,7 @@ Locks [member|name|bots|leaveing]
 Unlocks [member|name|bots|leaving]
 
 !set rules [text]
-گذاشتن تنظیمات
+Set [text] as rules
 
 !set about [text]
 Set [text] as about
