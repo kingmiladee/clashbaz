@@ -1,4 +1,4 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [TeleSeed](https://telegram.me/teleavirateam)
 
 [![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -487,9 +487,7 @@ For graphic designs.
 
 [topkecleon](https://github.com/topkecleon)
 
-[Juan Potato](https://github.com/JuanPotato)
-
-# Our team!
+[Juan Potato](https://github.com/JuanPotato
 
 [Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
 
@@ -501,6 +499,5 @@ For graphic designs.
 
 ###Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
+[Farsichannel] (telegram.me/teleavirateam)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
